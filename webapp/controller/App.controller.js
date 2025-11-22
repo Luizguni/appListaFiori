@@ -5,6 +5,7 @@ sap.ui.define([
 
   return BaseController.extend("megaacademy.mod2aula2.controller.App", {
       onInit() {
+          /* método chamado quando o controlador é iniciado */
       }
   });
 });
